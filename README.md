@@ -9,5 +9,12 @@ Everything sounds about right, you're succesful and your fans adore you, sometim
 
 "He is not some kind of annoying paparazzi, he is not a journalist, he is not any model recruiter or similar. But he is everywhere, wherever I look, streets, past my window, even at the grocery store... I can only see his silhouette. Thousands of fans are watching, but I can only feel his stare."
 
+# Technologies
+
+- Unity Editor
+- C#
+- Krita(Art)
+- BandLab(Music)
+
 Stay Tuned!
 -Shinn
