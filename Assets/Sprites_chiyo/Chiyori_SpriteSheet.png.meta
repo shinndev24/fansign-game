@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 0da91e3de166aab4dab2d5e41dc73336
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8039056128523794444
+    second: Chiyori_SpriteSheet_0
+  - first:
+      213: -6346806066282935277
+    second: Chiyori_SpriteSheet_1
+  - first:
+      213: -1856178087346010826
+    second: Chiyori_SpriteSheet_2
+  - first:
+      213: 8327271284658853710
+    second: Chiyori_SpriteSheet_3
+  - first:
+      213: 793401720091100601
+    second: Chiyori_SpriteSheet_4
+  - first:
+      213: 1671351875877312745
+    second: Chiyori_SpriteSheet_5
+  - first:
+      213: -2117586106965983269
+    second: Chiyori_SpriteSheet_6
+  - first:
+      213: 1011538077528580972
+    second: Chiyori_SpriteSheet_7
+  - first:
+      213: 6968341324736477685
+    second: Chiyori_SpriteSheet_8
+  - first:
+      213: -1766576343470976238
+    second: Chiyori_SpriteSheet_9
+  - first:
+      213: -936239087552563
+    second: Chiyori_SpriteSheet_10
+  - first:
+      213: 5444013948433386501
+    second: Chiyori_SpriteSheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chiyori_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1980
+        width: 819
+        height: 1371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f789e93b098f6090800000000000000
+      internalID: -8039056128523794444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiyori_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2006
+        width: 70
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c49e0728d9be7a0800000000000000
+      internalID: -6346806066282935277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiyori_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1986
+        width: 820
+        height: 1371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63580ef2dd78d36e0800000000000000
+      internalID: -1856178087346010826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiyori_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 2012
+        width: 70
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47d6661d19609370800000000000000
+      internalID: 8327271284658853710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiyori_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1992
+        width: 823
+        height: 1370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5c63a29aab20b00800000000000000
+      internalID: 793401720091100601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiyori_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 2018
+        width: 71
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e899580da5d13710800000000000000
+      internalID: 1671351875877312745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiyori_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 1989
+        width: 823
+        height: 1370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf7df8b7a2dc92e0800000000000000
+      internalID: -2117586106965983269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiyori_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 2039
+        width: 48
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c636fdba584b90e00800000000000000
+      internalID: 1011538077528580972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiyori_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 562
+        width: 826
+        height: 1316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9b796d38584b060800000000000000
+      internalID: 6968341324736477685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiyori_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 579
+        width: 826
+        height: 1305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213ddc2ec2cdb77e0800000000000000
+      internalID: -1766576343470976238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiyori_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 599
+        width: 859
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7f2c9de7cacfff0800000000000000
+      internalID: -936239087552563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiyori_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 616
+        width: 817
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cc4aca7d50d8b40800000000000000
+      internalID: 5444013948433386501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chiyori_SpriteSheet_0: -8039056128523794444
+      Chiyori_SpriteSheet_1: -6346806066282935277
+      Chiyori_SpriteSheet_10: -936239087552563
+      Chiyori_SpriteSheet_11: 5444013948433386501
+      Chiyori_SpriteSheet_2: -1856178087346010826
+      Chiyori_SpriteSheet_3: 8327271284658853710
+      Chiyori_SpriteSheet_4: 793401720091100601
+      Chiyori_SpriteSheet_5: 1671351875877312745
+      Chiyori_SpriteSheet_6: -2117586106965983269
+      Chiyori_SpriteSheet_7: 1011538077528580972
+      Chiyori_SpriteSheet_8: 6968341324736477685
+      Chiyori_SpriteSheet_9: -1766576343470976238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
