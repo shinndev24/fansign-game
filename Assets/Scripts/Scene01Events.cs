@@ -1,16 +1,25 @@
 using UnityEngine;
+using System.Collections;
 
 public class Scene01Events : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    [SerializeField] GameObject fadeScreenIn;
+    public GameObject character1;
+    public GameObject character2;
+
     void Start()
     {
-        
+        StartCoroutine(EventStarter());
     }
 
-    // Update is called once per frame
-    void Update()
+    IEnumerator EventStarter()
     {
-        
+        yield return new WaitForSeconds(1.5);
+        fadeScreenIn.SetActive(false);
+        character1.SetActive(true);
+        yield return new WaitForSeconds(2);
+        //text function
+        yield return new WaitForSeconds(2);
+        character2.SetActive(true);
     }
 }
